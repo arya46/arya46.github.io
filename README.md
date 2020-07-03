@@ -1,1 +1,3 @@
-My portfolio website made using BootStrap
+My portfolio website.
+
+Built with :heart: using BootStrap.
